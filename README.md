@@ -16,4 +16,4 @@
 #### Attempt 3
 <img width="864" alt="Attempt 3" src="https://user-images.githubusercontent.com/110318652/216480573-1fc4f0c9-94f5-44bc-9a55-d3f80e277593.png">
 
-<img width="585" alt="Attempt 3 percentage" src="https://user-images.githubusercontent.com/110318652/216480578-7199cc21-085a-44eb-ad8b-6e0081019cef.png">
+<img width="575" alt="Screenshot 2023-02-02 at 8 44 41 PM" src="https://user-images.githubusercontent.com/110318652/216492193-051e4444-1fb9-4a01-b2a8-19464924d6b9.png">
