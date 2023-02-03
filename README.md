@@ -8,6 +8,7 @@ The purpose of this project was to use the knowledge of machine learning and neu
 ### Data Processing
 1.	The variable considered the target in the module was the “IS_SUCCESSFUL” column.
 2.	What variables considered to be the features for the module are the following:
+
 a.	“APPLICATION_TYPE”
 b.	“AFFILIATION”
 c.	“CLASSIFICATION”
@@ -17,6 +18,7 @@ f.	“STATUS”
 g.	“INCOME_AMT”
 h.	“SPECIAL_CONSIDERATION”
 i.	“ASK_AMT”
+
 3.	The variables that are neither targets nor features and removed from the input data were the “EIN” and “NAME” columns.
 
 ### Compiling, Training, and Evaluation the Model
